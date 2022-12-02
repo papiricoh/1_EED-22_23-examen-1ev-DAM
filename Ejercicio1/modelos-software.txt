@@ -1,4 +1,1 @@
-Iterativo Incremental
-En cascada
-En cascada con feedback
 Agile
